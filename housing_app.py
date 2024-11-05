@@ -262,7 +262,7 @@ with col1:
 
             prediction = loaded_model.predict(input_df).squeeze()
             st.session_state['prediction'] = prediction
-            st.success("Done!:sparkle:")
+            st.success("Done!:heavy_check_mark:")
 
     
     if st.session_state['prediction']:

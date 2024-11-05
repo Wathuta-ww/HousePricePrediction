@@ -129,7 +129,7 @@ st.title("House Price Prediction")
 st.markdown("""
 ##### A web application for predicting House Prices.
 
-This app uses machine learning to predict house prices:house: :heavy_dollar_sign:by loading a pre-trained linear regression model. 
+This app uses machine learning to predict house prices:house::heavy_dollar_sign:by loading a pre-trained linear regression model. 
 It takes various features as input, including the number of rooms, bedrooms, neighborhood population, and proximity to the nearest city:cityscape:.
 The app preprocesses these inputs, combining and enriching features like city distance for improved predictions.
 
